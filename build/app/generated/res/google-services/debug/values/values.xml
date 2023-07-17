@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">212393181149-65red8f3o02a18tjmr4tsqgtdpv8gfmd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">212393181149</string>
+    <string name="google_api_key" translatable="false">AIzaSyC0KHx15k5u-XZTFVEgKMwNCXreNurYSLk</string>
+    <string name="google_app_id" translatable="false">1:212393181149:android:5bbf697e7c9f6d1a76c034</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC0KHx15k5u-XZTFVEgKMwNCXreNurYSLk</string>
+    <string name="google_storage_bucket" translatable="false">oua122-bootcamp.appspot.com</string>
+    <string name="project_id" translatable="false">oua122-bootcamp</string>
+</resources>
