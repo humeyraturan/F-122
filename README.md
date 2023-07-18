@@ -26,7 +26,7 @@ Takım Flutter 122
 
 ## Ürün Açıklaması
 
-Çölyak hastalarının ve glutensiz beslenmeyi hedefleyen kullanıcıların hayatlarını kolaylaştıracak araçları tek bir uygulama içerisinde kullanabilmeleri amaçlanarak bu ihtiyaçlar kategorize edilmiştir. Bu kategoriler içerisinde; Glutensiz menüler çıkartan restoranlara kolay erişim, Glutensiz tarifler, Market ürünlerinin çölyak hastalarına uygun olup olmadığını tespit edecek bir scanner ve Glutensiz ürünlerin satışının yapıldığı bir pazar yeri bulunmaktadır.
+Çölyak hastalarının ve glutensiz beslenmeyi hedefleyen kullanıcıların hayatlarını kolaylaştıracak araçları tek bir uygulama içerisinde kullanabilmeleri amaçlanarak bu ihtiyaçlar kategorize edilmiştir. Bu kategoriler içerisinde; Glutensiz menüler çıkartan restoranlara kolay erişim, Market ürünlerinin çölyak hastalarına uygun olup olmadığını tespit edecek bir scanner ve Glutensiz ürünlerin satışının yapıldığı bir pazar yeri bulunmaktadır.
 
 
 
